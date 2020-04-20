@@ -1,0 +1,1 @@
+../../dotfiles/main/.config/nvim/init.vim
